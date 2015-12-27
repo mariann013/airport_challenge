@@ -1,7 +1,4 @@
-### Status
-[![Build Status](https://travis-ci.org/mariann013/airport_challenge.svg?branch=master)](https://travis-ci.org/mariann013/airport_challenge)
-
-# Airport Challenge
+# Airport Challenge [![Build Status](https://travis-ci.org/mariann013/airport_challenge.svg?branch=master)](https://travis-ci.org/mariann013/airport_challenge)
 
 Description:
 For the airport challenge I have completed all of the user requirements as I have interpreted them and all my tests pass. 
